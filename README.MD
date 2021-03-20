@@ -105,4 +105,9 @@ No Issues
 • Merge tweets table with other columns related to the tweets in a new table
 
 
-**At the end of the project the wrangled is Visualized data to get some insights out of the numbers.**
+**At the end of the project the wrangled data, we answer some target questions and try to get some insights out of the data supported with  visualiztions.**
+
+
+**NOTE**
+
+You can view the results in a presentaiton like slides when you download the project files to your pc and open the HTML file.
